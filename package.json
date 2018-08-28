@@ -41,7 +41,7 @@
     "@tractor/error-handler": "^1.0.0-alpha.5",
     "@tractor/file-structure": "^1.0.0-alpha.5",
     "@tractor/logger": "^1.0.0-alpha.5",
-    "babel-eslint": "^8.2.1",
+    "babel-eslint": "^9.0.0",
     "bluebird": "^3.5.1",
     "eslint": "^4.17.0",
     "istanbul": "^1.1.0-alpha.1",
