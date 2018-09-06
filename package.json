@@ -56,7 +56,7 @@
     "@tractor/error-handler": "^1.0.1-beta.2",
     "@tractor/unit-test": "^1.0.1-beta.2",
     "@tractor-plugins/page-objects": "^0.5.2",
-    "@tractor-plugins/mocha-specs": "^0.1.0",
+    "@tractor-plugins/mocha-specs": "^0.2.0",
     "babel-eslint": "^8.2.1",
     "bluebird": "^3.5.1",
     "eslint": "^4.17.0",
