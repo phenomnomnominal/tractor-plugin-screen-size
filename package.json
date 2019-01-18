@@ -58,7 +58,7 @@
     "@tractor/error-handler": "^1.0.1-beta.8",
     "@tractor/unit-test": "^1.0.1-beta.8",
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.6.1",
+    "eslint": "5.12.0",
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^5.2.0",
     "npm-watch": "^0.4.0",
